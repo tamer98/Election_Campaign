@@ -33,7 +33,7 @@ The project involves managing an election system during the Corona period in an 
 
 
 
-### `Subjects Used` 
+### `Emphasis on the subjects` 
 ---
 - Inheritance: Inheritance is utilized to establish relationships between classes such as Citizen and Candidate, and BallotBox and its subclasses (CoronaPollingStation and MilitaryPollingStation).
 - Polymorphism: Polymorphism is employed to treat objects of different types as instances of a common superclass, such as treating different types of ballot boxes as BallotBox objects.
