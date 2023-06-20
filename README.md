@@ -16,15 +16,15 @@ The project involves managing an election system during the Corona period in an 
 ---
 #### functionalities:
 
-1.Adding a ballot: Enables the addition of a new ballot to the system.
-2.Adding a citizen: Allows the inclusion of a new citizen in the voter register.
-3.Adding a party: Facilitates the addition of a new political party participating in the election round.
-4.Adding a citizen as a candidate: Enables assigning a citizen as a candidate on behalf of a specific party.
-5.Displaying all ballot boxes: Shows the details of all the ballot boxes, including their associated citizens and voting percentages.
-6.Presentation of all citizens: Displays information about all the citizens registered for voting.
-7.Presentation of all parties: Shows details of all the political parties participating in the election.
-8.Elections: Initiates the voting process, allowing each citizen to cast their vote and choose a party.
-9.Showing election results: Presents the vote counts for each party from each ballot box and the overall total.
+1. Adding a ballot: Enables the addition of a new ballot to the system.
+2. Adding a citizen: Allows the inclusion of a new citizen in the voter register.
+3. Adding a party: Facilitates the addition of a new political party participating in the election round.
+4. Adding a citizen as a candidate: Enables assigning a citizen as a candidate on behalf of a specific party.
+5. Displaying all ballot boxes: Shows the details of all the ballot boxes, including their associated citizens and voting percentages.
+6. Presentation of all citizens: Displays information about all the citizens registered for voting.
+7. Presentation of all parties: Shows details of all the political parties participating in the election.
+8. Elections: Initiates the voting process, allowing each citizen to cast their vote and choose a party.
+9. Showing election results: Presents the vote counts for each party from each ballot box and the overall total.
 
 
 
